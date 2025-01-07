@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+Tech enthusiast on a journey to master full-stack development. Building user-friendly web applications while constantly learning new technologies. Currently focused on MERN stack and exploring modern development practices. Always eager to learn and collaborate!
 
 
 ## 🌐 Socials:
